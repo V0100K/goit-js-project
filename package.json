@@ -10,7 +10,7 @@
     "build": "parcel build src/*.html --public-url /goit-js-project/"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/V0100K/goit-js-project.git"
   },
   "keywords": [],
