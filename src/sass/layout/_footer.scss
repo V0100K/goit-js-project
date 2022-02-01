@@ -1,0 +1,27 @@
+.footer {
+  text-align: center;
+  padding-bottom: 27px;
+  @media screen and (min-width: 768px) {
+    padding-bottom: 18px;
+  }
+}
+.footer__paragraph {
+  width: 260px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.4;
+  margin: 0 auto;
+  color: var(--footer-color);
+  @media screen and (min-width: 768px) {
+    width: 100%;
+    font-size: 14px;
+  }
+  .footer_heart {
+    color: rgb(219, 7, 7);
+    font-size: 18px;
+  }
+}
+.footer-students {
+  text-decoration: none;
+  color: rgb(114, 114, 243);
+}

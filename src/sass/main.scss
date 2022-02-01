@@ -1,0 +1,22 @@
+// U T I L S
+@import './utils/variables';
+@import './utils/visually-hidden';
+
+// B A S E
+@import './base/common';
+@import './base/container';
+
+// C O M P O N E N T S
+@import './components/button';
+@import './components/scrollUp';
+@import './components/preloader';
+@import './components/backdrop';
+@import './components/modal';
+@import './components/modal-footer';
+@import './components/bgimg';
+
+// L A Y O U T
+@import './layout/header';
+@import './layout/events';
+@import './layout/footer';
+@import './layout/pagination';
